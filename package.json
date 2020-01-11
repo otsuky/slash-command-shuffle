@@ -2,7 +2,7 @@
   "name": "slash-command-shuffle",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "shuffle.js",
   "scripts": {
     "build": "netlify-lambda build src/",
     "serve": "netlify-lambda serve src/"
